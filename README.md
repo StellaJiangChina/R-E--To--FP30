@@ -28,3 +28,7 @@ Reverse Engineering of Roland FP30 Digital Piano(罗兰FP30电钢琴逆向工程
 3.2自制SEM、TEM、AFM或STM等未尝试过的显微镜
 
 3.3尝试自制X射线衍射扫描机
+
+3.4自制量子计算机
+
+3.5自制MRI
