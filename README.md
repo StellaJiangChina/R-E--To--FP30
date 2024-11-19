@@ -32,3 +32,5 @@ Reverse Engineering of Roland FP30 Digital Piano(罗兰FP30电钢琴逆向工程
 3.4自制量子计算机
 
 3.5自制MRI
+
+3.6自制衍射计算机
