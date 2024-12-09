@@ -24,3 +24,7 @@ Reverse Engineering of Roland FP30 Digital Piano(罗兰FP30电钢琴逆向工程
 3.集成电路逆向
 
 3.1各个芯片开盖（未开始）
+
+3.2固件逆向
+
+3.3自制模型电路式大体积AFM, FIB, STM, SEM，衍射神经网络，X-Ray衍射机
